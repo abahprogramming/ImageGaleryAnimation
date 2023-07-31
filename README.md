@@ -1,4 +1,4 @@
 # ImageGaleryAnimation
-- Langguage
+- Language
  HTML
  CSS
